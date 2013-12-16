@@ -6,5 +6,4 @@
   <artifactId>sitecore-api-android</artifactId>
   <version>1.1</version>
   <packaging>aar</packaging>
-  <description>POM was created from install:install-file</description>
 </project>
